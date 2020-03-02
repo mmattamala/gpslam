@@ -13,6 +13,7 @@
 #include <gtsam/base/Matrix.h>
 
 #include <boost/serialization/array.hpp>
+#include <iostream>
 
 
 namespace gpslam {
